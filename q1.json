@@ -1,6 +1,6 @@
 [
     {
-      "questionText": "Which\"s capital of India?",
+      "questionText": "Which capital of India?",
       "explanation": "New Delhi is the answer",
       "answers": [
         {"text": "Mumbai", "score": 0},
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "questionText": "Which\"s mother toung of India?",
+      "questionText": "Which mother toung of India?",
       "explanation": "Hindi is the answer",
       "answers": [
         {"text": "Marathi", "score": 0},
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "questionText": "Who\"s prime ministor of India?",
+      "questionText": "Who is prime ministor of India?",
       "explanation": "Modi is the answer",
       "answers": [
         {"text": "Narendra Modi", "score": 1},
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "questionText": "Who\"s president of India?",
+      "questionText": "Who is president of India?",
       "explanation": "Ramnath is the answer",
       "answers": [
         {"text": "Lalkrishna Advani", "score": 0},
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "questionText": "Who\"s Chief Minister of Gujarat?",
+      "questionText": "Who is Chief Minister of Gujarat?",
       "explanation": "Vijay is the answer",
       "answers": [
         {"text": "Nitin Patel", "score": 0},
