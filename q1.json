@@ -1,4 +1,3 @@
-
     {
       "questionText": "Which capital of India?",
       "explanation": "New Delhi is the answer",
@@ -59,5 +58,5 @@
         {"text": "Bana Bhatta", "score": 0},
         {"text": "Chanakya", "score": 1}
       ]
-    },
+    }
  
